@@ -1,0 +1,28 @@
+Criar uma pasta p/ repositorio local, 
+abrila com botao direi com Git bash, 
+no prontp comando da comando git init 
+para iniciar repositorio.
+
+comando push para enviar
+comando pull é de puxar arquivo no git
+git add . vai adicionar todos os arquivos
+git add
+dir lista os arquivos que tem
+git status
+ git commit -m "" // dentro do parenteses seria colocado o serial do chamado p/ manutenção por exemplo
+
+repositorio remoto
+$ git remote add origin https://github.com/MarlonDSantos/TesteGitApex.git
+
+Branch em ingles é ramo,
+em settings deve trocar main por master
+
+
+
+Teste
+
+Git
+
+Apex 
+
+2022
